@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Patrick. This is my work account for my role at
-[The University of Arizona Graduate College](https://github.com/uazgraduatecollege/)
+[The University of Arizona Graduate College](https://github.com/uazgraduatecollege/).
 
 ### I like
 
@@ -11,5 +11,4 @@ I'm Patrick. This is my work account for my role at
 - 🐧 linux
 - 🌮 tacos 
 
-You can also browse my [personal profile](https://github.com/paddyredbeard/)
-
+You can also browse my [personal profile](https://github.com/paddyredbeard/).
